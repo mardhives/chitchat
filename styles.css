@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #F19A91;
+    background-color: #FFDE7;
 }
 
 .chat-container {
@@ -16,7 +16,7 @@ body {
 
 .sidebar {
     width: 25%;
-    background-color: #F19A91;
+    background-color: #6699CC;
     color: #ecf0f1;
     display: flex;
     flex-direction: column;
@@ -42,22 +42,22 @@ body {
 }
 
 .contact.active {
-    background-color: #F19A91;
+    background-color: #6699CC;
 }
 
 .contact:hover {
-    background-color: #F19A91;
+    background-color: #6699CC
 }
 
 .chat-section {
     width: 75%;
     display: flex;
     flex-direction: column;
-    background-color: #F19A91;
+    background-color: #FFDE7;
 }
 
 .chat-header {
-    background-color: #F19A91;
+    background-color: #FFDE7;
     color: #fff;
     padding: 15px;
     display: flex;
@@ -82,7 +82,7 @@ body {
 }
 
 .message.received {
-    background-color: #F19A91;
+    background-color: #FFDE7;
     align-self: flex-start;
 }
 
@@ -95,7 +95,7 @@ body {
 .chat-input {
     display: flex;
     padding: 15px;
-    background-color: #F19A91;
+    background-color: #FFDE7;
     border-top: 1px solid #bdc3c7;
 }
 
@@ -108,7 +108,7 @@ body {
 
 .chat-input button {
     padding: 10px 20px;
-    background-color: #F19A91;
+    background-color: #FFDE7;
     color: #fff;
     border: none;
     border-radius: 5px;
