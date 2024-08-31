@@ -87,7 +87,7 @@ body {
 }
 
 .message.sent {
-    background-color: #3498db;
+    background-color: #F19A91;
     color: #fff;
     align-self: flex-end;
 }
@@ -95,7 +95,7 @@ body {
 .chat-input {
     display: flex;
     padding: 15px;
-    background-color: #fff;
+    background-color: #F19A91;
     border-top: 1px solid #bdc3c7;
 }
 
@@ -108,7 +108,7 @@ body {
 
 .chat-input button {
     padding: 10px 20px;
-    background-color: #3498db;
+    background-color: #F19A91;
     color: #fff;
     border: none;
     border-radius: 5px;
